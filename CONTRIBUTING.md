@@ -1,4 +1,7 @@
-# Contributor Guidelines
+
+
+
+l# Contributor Guidelines
 
 These are the general guidelines for contributing to WHATWG standards.
 
@@ -9,6 +12,7 @@ Please do file these, they are appreciated! Consider reading the [FAQ](https://w
 ## Participation agreement
 
 Please ensure you, or your employer if you work in the field of web technologies, can sign the [Contributor and Workstream Participant Agreement](https://participate.whatwg.org/agreement).
+
 
 If this is your first time contributing to the WHATWG standards, check out the global list of [good first issues](https://github.com/search?q=is%3Aopen+label%3A%22good+first+issue%22+user%3Awhatwg&type=Issues) and find one you want to work on. You should comment in the thread to let others know you will be working on the issue. This is a great time to ask any questions that you may have.
 
